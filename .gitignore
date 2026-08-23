@@ -7,3 +7,4 @@
 site_push.log
 __pycache__/
 .DS_Store
+map/_source.html
